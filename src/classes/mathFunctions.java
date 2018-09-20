@@ -20,5 +20,9 @@ public static int multiplication(int a, int b)
 	total=a*b;
 	return total;
 }
-
+public static double devision(int a, int b)
+{
+	total=a/b;
+	return total;
+}
 }
